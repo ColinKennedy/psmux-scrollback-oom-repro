@@ -1,0 +1,4 @@
+# local run output (the harness writes here by default)
+run-*/
+psmux-data/
+*.log
